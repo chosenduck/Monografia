@@ -1,5 +1,5 @@
 # Análise do MBL no YouTube
-Este repositório contém scripts desenvolvidos durante minha monografia, focados em mapear a rede organizacional do MBL no Youtube usando Análise de Redes Sociais (ARS), e analisar os temas tratados pelo movimento por meio das tags dos vídeos de outubro de 2014 a julho de 2024.
+Este repositório contém scripts desenvolvidos durante minha monografia, focados em mapear a rede organizacional do [MBL no Youtube](https://www.youtube.com/@mblivre) usando Análise de Redes Sociais (ARS), e analisar os temas tratados pelo movimento por meio das tags dos vídeos de outubro de 2014 a julho de 2024.
 
 Os dados utilizados aqui foram extraídos a partir da ferramenta [YoutubeDataTools](https://ytdt.digitalmethods.net/). Os arquivos utilizados incluem um arquivo com a lista de canais encontrados e um com as tags de vídeos do canal, usadas para criar wordclouds e gráficos de frequência de palavras. Um terceiro arquivo, produzido pelo script, consiste em uma tabela de nós para análise posterior no Gephi. 
 
